@@ -1,5 +1,5 @@
 # File Explorer Using React Demo Snapshorts
-![image](./Assets/file.jpg)
+![image](./Assets/file.png)
 
 # Getting Started with Create React App
 
